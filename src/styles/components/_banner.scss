@@ -1,0 +1,95 @@
+.bg-banner {
+  background-color: $bg_gray;
+
+  .banner-content {
+    display: flex;
+    width: 1440px;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    .new-arrival {
+      color: $red;
+      font-family: "Be Vietnam Pro";
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+    }
+
+    .banner-title {
+      color: #000;
+      font-family: Poppins;
+      font-size: 60px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 60px; /* 120% */
+      margin-top: 24px;
+      margin-bottom: 30px;
+    }
+    .banner-desc {
+      color: var(--Font-Color, #333);
+      font-family: "Be Vietnam Pro";
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 24px; /* 133.333% */
+      margin-bottom: 30px;
+    }
+
+    .banner-btn {
+      display: inline-flex;
+      color: white;
+      height: 48px;
+      padding: 16px 40px;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+      flex-shrink: 0;
+      border-radius: 8px;
+      background: #f15a2a;
+      border: none;
+      margin-bottom: 50px;
+    }
+    .banner-ratings {
+      display: inline-flex;
+      align-items: center;
+      gap: 32px;
+
+      .middle-ratings {
+        border-left: 2px solid rgba(0, 0, 0, 0.1);
+        border-right: 2px solid rgba(0, 0, 0, 0.1);
+        padding-left: 32px;
+        padding-right: 32px;
+      }
+
+      .banner-ratings-number {
+        color: #000;
+        font-family: "Be Vietnam Pro";
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+      }
+
+      .banner-ratings-desc {
+        color: rgba(0, 0, 0, 0.6);
+        font-family: "Be Vietnam Pro";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22px; /* 137.5% */
+      }
+    }
+    .banner-img-container{
+        position: relative;
+
+        .banner-sale{
+            position: absolute;
+            top: 15px;
+            left: 60%;
+        }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+.navbar-bg {
+  background-color: $bg_dark;
+  height: 82px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-items {
+  display: flex;
+  width: 1440px;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav-category {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.navigation {
+  display: inline-flex;
+  align-items: center;
+  gap: 40px;
+  color: white;
+}
+
+.category-drawer {
+  border-radius: 8px;
+  background: var(--Primary-Color, #355bfb);
+  box-shadow: 0px 6px 10px 0px rgba(53, 91, 251, 0.3);
+  display: flex;
+  width: 147px;
+  height: 42px;
+  padding: 12px 16px;
+  align-items: center;
+  gap: 30px;
+  color: white;
+}
