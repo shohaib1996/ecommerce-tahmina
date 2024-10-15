@@ -1,0 +1,93 @@
+[
+    {
+      "img": "https://i.imgur.com/p9RWZ0G.png",
+      "id": 1,
+      "title": "Wireless Bluetooth Headphones",
+      "price": 50.00,
+      "rating": 4.5,
+      "discountPercentage": 10,
+      "discountPrice": 45.00
+    },
+    {
+      "img": "https://i.imgur.com/tU6pYqa.png",
+      "id": 2,
+      "title": "Smartwatch with Heart Rate Monitor",
+      "price": 100.00,
+      "rating": 4.3,
+      "discountPercentage": 15,
+      "discountPrice": 85.00
+    },
+    {
+      "img": "https://i.imgur.com/TmoHOcM.png",
+      "id": 3,
+      "title": "4K Ultra HD Smart TV",
+      "price": 600.00,
+      "rating": 4.8,
+      "discountPercentage": 20,
+      "discountPrice": 480.00
+    },
+    {
+      "img": "https://i.imgur.com/ijVzcmd.png",
+      "id": 4,
+      "title": "Gaming Laptop",
+      "price": 1200.00,
+      "rating": 4.6,
+      "discountPercentage": 10,
+      "discountPrice": 1080.00
+    },
+    {
+      "img": "https://i.imgur.com/vTlMgrH.png",
+      "id": 5,
+      "title": "Noise-Cancelling Earbuds",
+      "price": 80.00,
+      "rating": 4.2,
+      "discountPercentage": 5,
+      "discountPrice": 76.00
+    },
+    {
+      "img": "https://i.imgur.com/p9RWZ0G.png",
+      "id": 6,
+      "title": "Portable Power Bank",
+      "price": 30.00,
+      "rating": 4.7,
+      "discountPercentage": 25,
+      "discountPrice": 22.50
+    },
+    {
+      "img": "https://i.imgur.com/tU6pYqa.png",
+      "id": 7,
+      "title": "Fitness Tracker",
+      "price": 45.00,
+      "rating": 4.1,
+      "discountPercentage": 10,
+      "discountPrice": 40.50
+    },
+    {
+      "img": "https://i.imgur.com/TmoHOcM.png",
+      "id": 8,
+      "title": "Wireless Keyboard and Mouse Combo",
+      "price": 60.00,
+      "rating": 4.4,
+      "discountPercentage": 12,
+      "discountPrice": 52.80
+    },
+    {
+      "img": "https://i.imgur.com/ijVzcmd.png",
+      "id": 9,
+      "title": "Smart Home Speaker",
+      "price": 150.00,
+      "rating": 4.9,
+      "discountPercentage": 20,
+      "discountPrice": 120.00
+    },
+    {
+      "img": "https://i.imgur.com/vTlMgrH.png",
+      "id": 10,
+      "title": "Ergonomic Office Chair",
+      "price": 200.00,
+      "rating": 4.5,
+      "discountPercentage": 15,
+      "discountPrice": 170.00
+    }
+  ]
+  
