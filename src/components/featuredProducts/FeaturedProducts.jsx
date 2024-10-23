@@ -23,7 +23,7 @@ const FeaturedProducts = () => {
           className="mySwiper"
         >
           {products.map((product) => (
-            <SwiperSlide>
+            <SwiperSlide key={product.id}>
               <div className="product-container">
                 <div className="feature-img">
                   <img src={product.img} alt="" />
@@ -86,13 +86,12 @@ const FeaturedProducts = () => {
           ))}
         </Swiper>
         <div className="navigation_buttons">
-        <button className="slider-btn" id="featured_next_el">
+          <button className="slider-btn" id="featured_next_el">
             <img src={prev} alt="Previous button" />
           </button>
           <button className="slider-btn" id="featured_prev_el">
             <img src={next} alt="Next button" />
           </button>
-         
         </div>
       </div>
     </div>
